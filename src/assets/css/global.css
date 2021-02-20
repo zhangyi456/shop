@@ -1,0 +1,28 @@
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  min-width: 1366px;
+}
+.el-cascader-panel {
+  height: 200px;
+}
+.el-breadcrumb{
+  margin-bottom: 15px;
+  font-size: 12px;
+}
+.el-card{
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15)!important;
+}
+.el-table{
+  margin-top: 15px;
+}
+.el-step{
+  font-size: 13px;
+}
+.ql-container{
+  min-height: 300px;
+}
